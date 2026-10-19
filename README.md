@@ -6,7 +6,7 @@
 
 ## Архитектура
 
-![Web Crawler (1)](D:\Download\Web Crawler (1).jpg)
+![architecture](architecture.jpg)
 
 ## Структура
 
