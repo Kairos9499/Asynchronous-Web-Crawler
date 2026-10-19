@@ -47,7 +47,7 @@ Cтек: PostgreSQL, сервер и CLI-клиент.
 
 - `docker compose up --build -d` - запуск сервера и БД
 - `docker compose ps`  - проверка работы сервисов
-- `docker compose run --rm client create -depth 1 -pages 20 -wait https://go.dev` - запуск краулера с глубиной 1, количеством страниц 20, на URL `https://go.dev``
+- `docker compose run --rm client create -depth 1 -pages 20 -wait https://go.dev` - запуск краулера с глубиной 1, количеством страниц 20, на URL https://go.dev
 - `docker compose run --rm client list` - выводит список заданий
 - `docker compose run --rm client status <id>` - выводит статус задания
 - `docker compose run --rm client results -all <id>` - выводит все результаты выполнения задания с указанным id
